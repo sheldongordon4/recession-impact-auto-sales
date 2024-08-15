@@ -1,6 +1,24 @@
 # Recession Analysis on Automotive Sales
 
 Project Overview
+
+Dataset Used
+
+Tools
+
+Data cleaning/preprocessing
+
+Exploratory Data Analysis
+
+Results/Findings
+
+Recommendations
+
+Limitations
+
+References
+
+Project Overview
 You have been hired by XYZ Automotives as a data scientist. Your first task is to analyze the historical data and give the company directors insights on how the sales were affected during times of recession. You will provide a number of charts/plots to visualize the data and make it easy for the directors to understand your analysis. 
 
 About the dataset
