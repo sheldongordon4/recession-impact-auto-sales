@@ -1,7 +1,7 @@
 # Recession Analysis on Automotive Sales
 
 ## Project Overview
-The objective of this project is to analyze the historical trends in automobile sales during recession periods. The goal is to provide insights into how the sales of XYZAutomotives, a company specializing in automotive sales, were affected during times of recession. You have been hired by XYZ Automotives as a data scientist. The first task is to analyze the historical data and give the company directors insights on how the sales were affected during times of recession.
+The objective of this project is to analyze the historical trends in automobile sales during recession periods. The goal is to provide insights into how the sales of XYZ Automotives, a company specializing in automotive sales, were affected during times of recession. You have been hired by XYZ Automotives as a data scientist. The first task is to analyze the historical data and give the company directors insights on how the sales were affected during times of recession.
 
 ### Data Sources
 The dataset show historical sales data for automotives, hihglighting periods of recession. The data used in this lab has been artifically created for the purpose of this assignment only. No real data has been used.
