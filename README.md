@@ -26,6 +26,9 @@ The dataset show historical sales data for automotives, hihglighting periods of 
 8. Pie chart to displaying the total Advertisement expenditure for each vehicle type during recession period.
 9. Lineplot analysing the effect of the unemployment rate on vehicle type and sales during the Recession Period.
 
+<img width="940" alt="Screenshot 2024-08-26 at 10 35 20" src="https://github.com/user-attachments/assets/8101da0d-fe05-4fe8-9e06-ba9bd904fc41">
+<img width="940" alt="Screenshot 2024-08-26 at 10 35 36" src="https://github.com/user-attachments/assets/f9b6b736-c04c-489e-848d-f911593d168d">
+
 ### Results/Findings
 - During recession period, the sales for 'Sports type vehicles' declined because of the high cost of the vehicle. while sales of the super mini cars and small family cars increased.
 - There is a drastic decline in the overall sales of the automobiles during recession. However, the most affected type of vehicle is executive and sports cars.
